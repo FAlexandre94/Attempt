@@ -1,0 +1,26 @@
+body {
+  font-size: 14px;
+  background-color: #0c122c;
+  width: 1440px;
+}
+
+.bgpic {
+  position: absolute;
+  bottom: 0;
+  right: 0;
+  width: 1440px;
+  z-index: -1;
+}
+
+.fylobox {
+  position: absolute;
+  margin-top: 25rem;
+  margin-left: 14rem;
+}
+
+.fyloboxlogo {
+  position: absolute;
+  left: 112px !important;
+  right: 40px !important;
+  bottom: 200px !important;
+}
